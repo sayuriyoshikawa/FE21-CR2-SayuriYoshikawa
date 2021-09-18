@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    font-family: "Trebuchet MS";
 }
 
 @media screen and (min-width: 1201px) {
@@ -33,6 +34,7 @@
         ul {
             margin-top: 0;
             padding-top: 1%;
+            padding-left: 1%;
             list-style: none;
             display: flex;
             li {
@@ -83,7 +85,7 @@
                 margin-top: 0;
                 font-size: 1.6vw;
                 text-align: center;
-                padding: 4% 6%;
+                padding: 4% 6.5%;
             }
         }
     }
@@ -94,7 +96,7 @@
         .article3 {
             img {
                 object-fit: cover;
-                height: 72%;
+                height: 75%;
             }
         }
     }
@@ -134,7 +136,7 @@
                 height: 7vh;
                 font-size: 1.6vw;
                 text-align: center;
-                padding: 4% 6%;
+                padding: 4% 4%;
             }
         }
     }
